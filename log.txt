@@ -1,0 +1,181 @@
+Title: Dark Night
+Year: 2016
+Rated: N/A
+Released: 24 Jan 2016
+Runtime: 85 min
+Genre: Drama
+Director: Tim Sutton
+Writer: Tim Sutton
+Actors: Anna Rose Hopkins, Robert Jumper, Karina Macias, Conor A. Murphy
+Plot: The lives of six strangers intersect at a suburban Cineplex where a massacre occurs.
+Language: English
+Country: USA
+Awards: 1 win & 4 nominations.
+Poster: https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2Nzg0MTk1MV5BMl5BanBnXkFtZTgwNjg3MTkxMTI@._V1_SX300.jpg
+Ratings: [object Object],[object Object]
+Metascore: 61
+imdbRating: 5.1
+imdbVotes: 228
+Type: movie
+imdbID: tt5281134
+DVD: N/A
+BoxOffice: N/A
+Production: N/A
+Website: N/A
+Response: True
+Title: Suicide Squad
+Rated: PG-13
+Year: 2016
+Released: 05 Aug 2016
+Genre: Action, Adventure, Fantasy
+Writer: David Ayer
+Director: David Ayer
+Actors: Will Smith, Jaime FitzSimons, Ike Barinholtz, Margot Robbie
+Plot: A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.
+Runtime: 123 min
+Language: English, Japanese, Spanish
+Country: USA
+Awards: Won 1 Oscar. Another 14 wins & 32 nominations.
+Poster: https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_SX300.jpg
+Ratings: [object Object],[object Object],[object Object]
+Metascore: 40
+imdbRating: 6.2
+imdbVotes: 424,862
+imdbID: tt1386697
+Type: movie
+DVD: 13 Dec 2016
+BoxOffice: $325,021,779
+Production: Warner Bros. Pictures
+Website: http://www.suicidesquad.com/
+Response: True
+Rated: PG-13
+Title: Suicide Squad
+Year: 2016
+Runtime: 123 min
+Genre: Action, Adventure, Fantasy
+Writer: David Ayer
+Released: 05 Aug 2016
+Actors: Will Smith, Jaime FitzSimons, Ike Barinholtz, Margot Robbie
+Plot: A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.
+Language: English, Japanese, Spanish
+Director: David Ayer
+Awards: Won 1 Oscar. Another 14 wins & 32 nominations.
+Country: USA
+Poster: https://images-na.ssl-images-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_SX300.jpg
+Ratings: [object Object],[object Object],[object Object]
+Metascore: 40
+imdbRating: 6.2
+imdbVotes: 424,862
+imdbID: tt1386697
+Type: movie
+DVD: 13 Dec 2016
+BoxOffice: $325,021,779
+Production: Warner Bros. Pictures
+Website: http://www.suicidesquad.com/
+Response: True
+Title: Suicide Squad
+Year: 2016
+Country: USA
+Actors: Will Smith, Jaime FitzSimons, Ike Barinholtz, Margot Robbie
+Language: English, Japanese, Spanish
+Plot: A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.
+imdbRating: undefined
+Year: 2016
+Country: USA
+Actors: Will Smith, Jaime FitzSimons, Ike Barinholtz, Margot Robbie
+Title: Suicide Squad
+Language: English, Japanese, Spanish
+Plot: A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.
+imdbRating: undefined
+Actors: Will Smith, Jaime FitzSimons, Ike Barinholtz, Margot Robbie
+Title: Suicide Squad
+Country: USA
+Language: English, Japanese, Spanish
+imdbRating: undefined
+Plot: A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.
+Year: 2016
+Title: Suicide Squad
+Actors: Will Smith, Jaime FitzSimons, Ike Barinholtz, Margot Robbie
+Year: 2016
+Country: USA
+Language: English, Japanese, Spanish
+imdbRating: undefined
+Plot: A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.
+Country: USA
+Actors: Will Smith, Jaime FitzSimons, Ike Barinholtz, Margot Robbie
+Title: Suicide Squad
+Year: 2016
+Plot: A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.
+Language: English, Japanese, Spanish
+imdbRating: undefined
+Year: 2016
+Title: Suicide Squad
+Actors: Will Smith, Jaime FitzSimons, Ike Barinholtz, Margot Robbie
+Country: USA
+Plot: A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.
+Language: English, Japanese, Spanish
+imdbRating: undefined
+Country: USA
+Actors: Will Smith, Jaime FitzSimons, Ike Barinholtz, Margot Robbie
+Title: Suicide Squad
+Year: 2016
+imdbRating: undefined
+Language: English, Japanese, Spanish
+Plot: A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.
+Year: 2016
+Actors: Will Smith, Jaime FitzSimons, Ike Barinholtz, Margot Robbie
+Country: USA
+Plot: A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.
+Title: Suicide Squad
+imdbRating: undefined
+Rating: Rotten Tomatoes Value: 25%
+Language: English, Japanese, Spanish
+AlbumArtist: Backstreet Boys
+Href: https://api.spotify.com/v1/search?query=I+want+it+that+way%0D%0A&type=track&offset=0&limit=1
+Artists: Backstreet Boys
+TrackName: I Want It That Way
+Type: track
+Popularity: 76
+TrackNumber: 1
+1: #ultraslan
+4: #hagi
+5: #Galatasaray
+0: node.js
+3: #galatasaray
+2: #cimbom
+6: node!!!!
+7: more tweets!!!1
+8: I Love Twitter
+9: hello
+10: node homework!
+11: Spidermaynneee!!!!
+12: Node is awesome!
+Year: 2016
+Title: Suicide Squad
+Actors: Will Smith, Jaime FitzSimons, Ike Barinholtz, Margot Robbie
+Country: USA
+imdbRating: undefined
+Language: English, Japanese, Spanish
+Plot: A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.
+Rating: Rotten Tomatoes Value: 25%
+AlbumArtist: Backstreet Boys
+Href: https://api.spotify.com/v1/search?query=I+want+it+that+way%0D%0A&type=track&offset=0&limit=1
+Popularity: 76
+Artists: Backstreet Boys
+Type: track
+TrackName: I Want It That Way
+TrackNumber: 1
+AlbumArtist: Backstreet Boys
+Href: https://api.spotify.com/v1/search?query=I+want+it+that+way%0D%0A&type=track&offset=0&limit=5
+Artists: Backstreet Boys
+TrackName: I Want It That Way
+Type: track
+Popularity: 76
+TrackNumber: 1
+AlbumArtist: Backstreet Boys
+Href: https://api.spotify.com/v1/search?query=I+want+it+that+way%0D%0A&type=track&offset=0&limit=1
+Type: track
+TrackNumber: 1
+Artists: Backstreet Boys
+TrackName: I Want It That Way
+Popularity: 76
